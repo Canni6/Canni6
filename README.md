@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I like working on technology, especially related to simulation, AI and games.
+
+🔭 I'm currently working on a flight simulator plugin for a forward-looking infra-red (FLIR) electro-optical camera. The aim of the plugin is to simulate the tasks of an observer for aerial surveillance.
+The project includes:
+- developing an X-Plane 11 plugin using the xppython3 API.
+- developing a UI to display data related to the aircraft, camera and object tracking.
+- object tracking with an off-the-shelf Yolov8 neural net model, processed separately on the GPU via a client/server python script.
+
+
 <!--
 **Canni6/Canni6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
