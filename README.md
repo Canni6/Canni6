@@ -8,6 +8,10 @@ The project includes:
 - developing a UI to display data related to the aircraft, camera and object tracking.
 - object tracking with an off-the-shelf Yolov8 neural net model, processed separately on the GPU via a client/server python script.
 
+Here's a sample of recent progress on real-time object tracking:
+
+![](https://github.com/Canni6/Canni6/blob/main/2023-03-03-flir-object-tracking_grey.gif)
+
 
 <!--
 **Canni6/Canni6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
