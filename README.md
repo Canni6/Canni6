@@ -2,7 +2,7 @@
 
 I like working on technology, especially related to simulation, AI and games.
 
-🔭 I'm currently working on a flight simulator plugin for a forward-looking infra-red (FLIR) electro-optical camera. The aim of the plugin is to simulate the tasks of an observer for aerial surveillance.
+🔭 A project I worked on prior to starting full time employment was a flight simulator plugin for a forward-looking infra-red (FLIR) electro-optical camera. The aim of the plugin was to simulate the tasks of an observer for aerial surveillance.
 The project includes:
 - developing an X-Plane 11 plugin using the xppython3 API.
 - developing a UI to display data related to the aircraft, camera and object tracking.
